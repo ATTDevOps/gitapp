@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/ATTUpskilling/PartsUnlimited/_apis/build/status%2FATTDevOps.gitapp?branchName=master)](https://dev.azure.com/ATTUpskilling/PartsUnlimited/_build/latest?definitionId=7&branchName=master)
