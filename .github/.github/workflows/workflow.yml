@@ -17,5 +17,5 @@ jobs:
           uses: Azure/Pipelines@v1
           with:
             azure-devops-project-url: https://dev.azure.com/ATTUpskilling/PartsUnlimited
-            azure-pipeline-name: 'ATTDevOps.gitapp'
+            azure-pipeline-name: 'webapp'
             azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
